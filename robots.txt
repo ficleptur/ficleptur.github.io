@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ficleptur.github.io/ficleptur.ficleptur
+Sitemap: https://ficleptur.github.io/app/ficleptur.ficleptur
+Sitemap: https://ficleptur.github.io/assets/ficleptur.ficleptur
+Sitemap: https://ficleptur.github.io/css/ficleptur.ficleptur
+Sitemap: https://ficleptur.github.io/includes/ficleptur.ficleptur
+Sitemap: https://ficleptur.github.io/item/ficleptur.ficleptur
+Sitemap: https://ficleptur.github.io/src/ficleptur.ficleptur
